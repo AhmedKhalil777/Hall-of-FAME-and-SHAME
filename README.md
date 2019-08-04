@@ -9,4 +9,7 @@ This Repos for my achievements and penalities
 
 ||||
 |:-:|:-:|:-:|
-|![](Cert/cert-1073-13362098.jpg)|![](Cert/3.JPG)|![](Cert/DSC_0192.JPG)|
+|![](Cert/cert-1073-13362098.jpg)|![](Cert/3.JPG)|
+
+![](Cert/DSC_0192.JPG)
+
