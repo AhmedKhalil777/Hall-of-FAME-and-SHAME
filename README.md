@@ -6,7 +6,7 @@ This Repos for my achievements and penalities
 | ![](Cert/api.png)	| ![](Cert/artificial-intelligence-intro.png)| ![](Cert/blockchain-intro.png)|![](Cert/cloud-intro.png)|	
 | ![](Cert/coding-intro.png)| ![](Cert/data-science-analytics-intro.png)|	![](Cert/git.png)|![](Cert/html-css.png	)|
 | ![](Cert/javascript.png)|![](Cert/web-development.png)	|![](Cert/web-services.png)|__SoloLearn python 3 certificate :__
- > ![](Cert/cert-1073-13362098.jpg)|
+![](Cert/cert-1073-13362098.jpg)|
 
 ---
 ## SoloLearn C# certificate :
