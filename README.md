@@ -11,14 +11,14 @@ This Repos for my achievements and penalities
 
 
 ## Data Science 
-||||
-|:-|:-|:-|
-|![](Cert/PandasKaggle.png)|||
+|||
+|:-|:-|
+|![](Cert/PandasKaggle.png)|![](Cert/PyforDS.PNG)|
 
 ## Soft Skills
-||||
-|:-|:-|:-|
-|![](Cert/intel.PNG)|![](Cert/itedia.PNG)||
+|||
+|:-|:-|
+|![](Cert/intel.PNG)| ![](Cert/itedia.PNG)|
 
 ## IBM Digital Nation
 |      |   |   |   |
