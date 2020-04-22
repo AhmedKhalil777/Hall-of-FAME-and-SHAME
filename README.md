@@ -1,7 +1,12 @@
 # Hall-of-FAME-and-SHAME
 This Repos for my achievements and penalities 
-## Aspire Soft skills 
-![](Cert/67966138_840440019689735_7009140542625808384_n.jpg)
+ 
+|Univaersity Certificates| Image|
+|:-|:-|
+|Aspire Soft skills|![](Cert/67966138_840440019689735_7009140542625808384_n.jpg)|
+|The Second Year of faculty |![](Cert/DSC_0192.JPG)|
+|The Second place fo Graduation project |![](Cert/GPs.jpeg)|
+
 ## IBM Digital Nation
 |      |   |   |   |
 |:----:|:-------:|:----------:|:---------:|
@@ -13,5 +18,5 @@ This Repos for my achievements and penalities
 |:-:|:-:|:-:|
 |![](Cert/cert-1073-13362098.jpg)|![](Cert/3.JPG)|![](Cert/cert-1014-13362098.jpg)|
 
-![](Cert/DSC_0192.JPG)
+
 
