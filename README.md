@@ -18,7 +18,7 @@ This Repos for my achievements and penalities
 ## Soft Skills
 |||
 |:-|:-|
-|![](Cert/intel.PNG)|![](Cert\Itedia.PNG)|
+|![](Cert/intel.PNG)|![](Cert\ted.PNG)|
 
 ## IBM Digital Nation
 |      |   |   |   |
@@ -32,5 +32,6 @@ This Repos for my achievements and penalities
 |![](Cert/cert-1073-13362098.jpg)|![](Cert/3.JPG)|
 |![](Cert/cert-1014-13362098.jpg)||
 
-
+## Dotnet
+![](Cert/ITI.jpg)
 
