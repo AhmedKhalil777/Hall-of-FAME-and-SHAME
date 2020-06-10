@@ -1,5 +1,5 @@
 # 8/6/2020
-- Ishaa Pray 
-- Microservices Video
-- Real Time Video
-- BPM 3 Lectures
+- Ishaa Pray  Ok
+- Microservices Video Ok
+- Real Time Video  OK
+- BPM 3 Lectures OK
