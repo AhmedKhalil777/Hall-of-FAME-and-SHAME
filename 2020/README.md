@@ -65,3 +65,35 @@
       - and either longitude, latitudes
       - Field Calcualator => to calculate a derived field from another, whatever we need the percentage of teh populations , we can get the total of the populations from the populations by statistics of the field then going to desired column to choose **Field Calculator** then observe the equations using parameters of
       - $$[Population]/{Total Populations} *100$$
+- 11
+  - CH1 Review
+  - CH2 Review
+  - CH3 Review
+  - CH4 Review
+  - CH5 Review __OK__
+  - CH6 Review
+  - CH7 Review 
+  - Ch8 Review
+  - Section 1
+  - Section 2
+  - Section 3
+  - Section 4
+  - Section 5
+  - Exams and MCQ
+  - My Day Review
+  - Salat El zuhr
+  - Al Aser
+- 12
+  - Chapter 1 __OK__
+  - Chapter 2 __OK__
+  - Chapter 3 __OK__
+  - Chapter 4 __OK__
+  - Chapter 5 __OK__
+  - Chapter 6 __OK__
+  - Chapter 7
+  - Chapter 8
+  - Chapter 9
+  - Chapter 10
+
+  
+
